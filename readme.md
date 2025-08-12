@@ -10,6 +10,7 @@ Analista de datos con formación en Sociología. Me especializo en programación
 - **Otros**: Git, Excel, Power Query
 
 ## 📫 Información de Contacto
-[correo: jualbornozc@gmail.com](mailto:jualbornozc@gmail.com)  
+✉️ **Correo:** jualbornozc@gmail.com  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-JuanAlbornoz-blue)](https://www.linkedin.com/in/juan-albornoz-carrillo/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Portafolio-black)](https://github.com/JuanAlbornoz32)
+[![GitHub](https://img.shields.io/badge/GitHub-Portafolio-black)](https://github.com/JuanAlbornoz32)  
+
