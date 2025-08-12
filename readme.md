@@ -10,10 +10,8 @@ Analista de datos con formación en Sociología. Me especializo en programación
 - **Otros**: Git, Excel, Power Query
 
 ## 📫 Información de Contacto
-<!-- Correo -->
-<a href="mailto:jualbornozc@gmail.com">
-  <img src="https://img.icons8.com/ios-filled/50/000000/new-post.png" alt="Email" width="30"/>
-</a>
+<!-- Link directo a Gmail en web -->
+[Correo en Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=jualbornozc@gmail.com)  
 
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/juan-albornoz-carrillo/" target="_blank">
