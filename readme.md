@@ -13,4 +13,13 @@ Analista de datos con formación en Sociología. Me especializo en programación
 - **Visualización**: Tableau, Power BI  
 - **Otros**: Git, Excel, Power Query
 
+## 🚀 Proyectos
+
+### 🚲 Proyecto de análisis sobre el uso de las bicicletas compartidas Cyclistic (Enero 2025)
+Proyecto final del Certificado de Análisis de Datos de Google, donde se aplica la metodología de seis pasos propuesta por la certificación (preguntar, preparar, procesar, analizar, compartir y actuar), al caso de estudio de las bicicletas *Cyclistic*, una empresa ficticia de bicicletas compartidas. El análisis busca destacar las diferencias en el uso de bicicletas entre usuarios ocasionales y miembros suscritos de la empresa, con el fin de identificar estrategias que fomenten la conversión de clientes ocasionales en suscriptores.
+
+- **Herramientas de análisis:** R, Tidyverse.  
+- **Datos:** Se utilizaron los datos públicos de viajes en bicicleta del servicio Divvy, operado por Bikeshare en la ciudad de Chicago. [Datos](https://divvy-tripdata.s3.amazonaws.com/index.html)
+
+📎 [Ver proyecto en Kaggle](URL_AQUI)
 
