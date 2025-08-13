@@ -20,8 +20,8 @@ Proyecto personal orientado a analizar tendencias climáticas en las distintas z
 
 Actualmente, se encuentra en la etapa de limpieza y transformación de datos, con el objetivo de realizar un análisis exploratorio y estadístico que identifique patrones y variaciones a lo largo del tiempo, y posteriormente desarrollar un visualizador interactivo para la exploración de la información.
 
-**Herramientas de análisis:** Python, Pandas, Requests.  
-**Datos:** API Arclim — Ministerio del Medio Ambiente de Chile.  
+- **Herramientas de análisis:** Python, Pandas, Requests.  
+- **Datos:** API Arclim — Ministerio del Medio Ambiente de Chile.  
 
 📎 [Repositorio del proyecto](https://github.com/JuanAlbornoz32/Analisis_Datos_Climaticos_Chile)
 
