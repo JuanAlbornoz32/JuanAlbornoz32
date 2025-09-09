@@ -2,18 +2,38 @@
 
 ### 🎓 Analista de Datos | Licenciado en Sociología
 
-Analista de datos con formación en Sociología. Me especializo en programación y análisis de datos, integrando herramientas tecnológicas con una mirada crítica y analítica propia de las ciencias sociales. Cuento con experiencia en el procesamiento, exploración, análisis y visualización de datos, utilizando herramientas como Python, R, SQL y Excel. Me destaco por mi adaptabilidad, pensamiento crítico, autonomía, habilidades comunicativas y capacidad para resolver problemas en contextos reales.
+Analista de datos con formación en Sociología y especialización en programación y herramientas de análisis y visualización de datos. Combino el uso de tecnológias con una mirada crítica propia de las ciencias sociales. Tengo experiencia en procesamiento, exploración, análisis y visualización de datos utilizando Python, R y SQL.
 
+Me caracterizo por la adaptabilidad, pensamiento crítico y capacidad de comunicar hallazgos de manera clara. En este perfil encontrarás proyectos aplicados en análisis descriptivo, probabilístico, inferencial y predictivo, desarrollados como parte de mi formación y práctica profesional.
 ## 📫 Contacto
 ✉️ **Correo:** jualbornozc@gmail.com  
 🔗 **LinkedIn:** [Juan Albornoz Carrillo](https://www.linkedin.com/in/juan-albornoz-carrillo/)
 
-## 🛠 Tecnologías y Herramientas
+## 🛠 Tecnologías, Herramientas y Enfoques de Análisis
 - **Lenguajes**: Python, R, SQL  
-- **Visualización**: Tableau, Power BI  
-- **Otros**: Git, Excel, Power Query
+- **Herramientas**: Excel, Power BI, Power Query, Tableau, SPSS.
+- **Enfoques de análisis**: Análisis exploratorio de datos (EDA), estadística descriptiva e inferencial, validación de hipótesis y análisis probabilístico. 
 
 ## 🚀 Proyectos
+
+### 🌍 Proyectos y Ejercicios del Bootcamp Fundamentos de Análisis de Datos 
+
+Este repositorio reúne distintos proyectos y casos de estudio desarrollados durante mi participación en el Bootcamp "Fundamentos de Análisis de Datos" (Mayo – Agosto 2025), impartido por Edutecno y Talento Digital para Chile. Los ejercicios se enfocan en el análisis de datos y la aplicación práctica de conceptos estadísticos.
+
+El repositorio se organiza en distintas carpetas, según el tipo de análisis desarrollado:
+- **Análisis descriptivos:** exploración de datos, análisis univariados, bivariados, correlaciones y visualizaciones.
+
+- **Pruebas estadísticas:** contrastes de hipótesis y métodos de inferencia.
+
+- **Cálculos probabilísticos:** aplicación de distribuciones, probabilidades y estimaciones de parámetros.
+
+- **Modelos de regresión:** análisis predictivos y relaciones entre variables.
+
+**Herramientas de análisis:** Python, Pandas, Matplotlib, Seaborn, Scipy.
+
+📎 [Repositorio del proyecto](https://github.com/JuanAlbornoz32/Proyectos_Bootcamp_Analisis_de_Datos)
+
+***
 
 ### 🌍 Análisis de Tendencias Climáticas en Chile (En desarrollo)
 Proyecto personal orientado a analizar tendencias climáticas en las distintas zonas geográficas de Chile. Se implementa un proceso ETL que comienza con la extracción de datos desde la API Arclim del Ministerio del Medio Ambiente, recopilando indicadores climáticos a nivel nacional desagregados por distintas capas geográficas.
