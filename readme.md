@@ -16,20 +16,16 @@ Me caracterizo por la adaptabilidad, pensamiento crítico y capacidad de comunic
 
 ## 🚀 Proyectos
 
-### 🌍 Proyectos y Ejercicios del Bootcamp Fundamentos de Análisis de Datos 
+### 📊 Proyectos y Ejercicios del Bootcamp Fundamentos de Análisis de Datos 
 
-Este repositorio reúne distintos proyectos y casos de estudio desarrollados durante mi participación en el Bootcamp "Fundamentos de Análisis de Datos" (Mayo – Agosto 2025), impartido por Edutecno y Talento Digital para Chile. Los ejercicios se enfocan en el análisis de datos y la aplicación práctica de conceptos estadísticos.
+Este repositorio reúne distintos proyectos y casos de estudio desarrollados durante mi participación en el Bootcamp "Fundamentos de Análisis de Datos" (Mayo – Agosto 2025), impartido por Edutecno y Talento Digital para Chile. 
 
-El repositorio se organiza en distintas carpetas, según el tipo de análisis desarrollado:
-- **Análisis descriptivos:** exploración de datos, análisis univariados, bivariados, correlaciones y visualizaciones.
+Los ejercicios se centran en el análisis de datos aplicado, desde la exploración y limpieza de datos, el análisis estadístico y la visualización hasta la construcción de dashboards interactivos. El repositorio está organizado en dos carpetas principales:
 
-- **Pruebas estadísticas:** contrastes de hipótesis y métodos de inferencia.
+- ejercicios_en_python/ → análisis descriptivos, pruebas estadísticas, probabilidades y modelos de regresión, desarrollados en notebooks con Python (pandas, matplotlib, seaborn, scipy).
 
-- **Cálculos probabilísticos:** aplicación de distribuciones, probabilidades y estimaciones de parámetros.
+- ejercicios_power_bi/ → informes y dashboards interactivos creados en Power BI, aplicando técnicas de modelado de datos, limpieza y transformaciones con Power Query y visualizaciones interactivas.
 
-- **Modelos de regresión:** análisis predictivos y relaciones entre variables.
-
-**Herramientas de análisis:** Python, Pandas, Matplotlib, Seaborn, Scipy.
 
 📎 [Repositorio del proyecto](https://github.com/JuanAlbornoz32/Proyectos_Bootcamp_Analisis_de_Datos)
 
