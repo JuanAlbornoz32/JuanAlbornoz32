@@ -22,9 +22,9 @@ Este repositorio reúne distintos proyectos y casos de estudio desarrollados dur
 
 Los ejercicios se centran en el análisis de datos aplicado, desde la exploración y limpieza de datos, el análisis estadístico y la visualización hasta la construcción de dashboards interactivos. El repositorio está organizado en dos carpetas principales:
 
-- ejercicios_en_python/ → análisis descriptivos, pruebas estadísticas, probabilidades y modelos de regresión, desarrollados en notebooks con Python (pandas, matplotlib, seaborn, scipy).
+- **ejercicios_en_python/ →** análisis descriptivos, pruebas estadísticas, probabilidades y modelos de regresión, desarrollados en notebooks con Python (pandas, matplotlib, seaborn, scipy).
 
-- ejercicios_power_bi/ → informes y dashboards interactivos creados en Power BI, aplicando técnicas de modelado de datos, limpieza y transformaciones con Power Query y visualizaciones interactivas.
+- **ejercicios_power_bi/ →** informes y dashboards interactivos creados en Power BI, aplicando técnicas de modelado de datos, limpieza y transformaciones con Power Query y visualizaciones interactivas.
 
 
 📎 [Repositorio del proyecto](https://github.com/JuanAlbornoz32/Proyectos_Bootcamp_Analisis_de_Datos)
